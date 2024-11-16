@@ -12,7 +12,7 @@ Secure Shredder is a tool designed to delete files, folders, and even entire par
 
 # Installation and Dependencies
 1. Python must be downloaded.
-2. Download sdelete from Syi using the link https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete.
+2. Download sdelete from Sysinternal using the link https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete.
 3. Extract the folder: 
 
 <img width="914" alt="image" src="https://github.com/user-attachments/assets/ada2fc82-6214-4817-ae00-ea67a3282ac2">
